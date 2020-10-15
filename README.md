@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://www.instagram.com/nevalen_aginda/">
-  <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="" />
+  <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="https://raw.githubusercontent.com/nevalenaginda/NevalenAginda/main/instagram.png"/>
 </a>
 
 <a href="https://github.com/nevalenaginda">
