@@ -2,7 +2,7 @@
 
 |||
 |---|---|
-|![lintang github stat](https://github-readme-stats.vercel.app/api?username=nevalenaginda&show_icons=true&hide_border=true&theme=vue)|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nevalenaginda&layout=compact&hide_border=true&theme=vue)| 
+|![nevalen github stat](https://github-readme-stats.vercel.app/api?username=nevalenaginda&show_icons=true&hide_border=true&theme=vue)|![nevalen top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nevalenaginda&layout=compact&hide_border=true&theme=vue)| 
 
 <br>
 
