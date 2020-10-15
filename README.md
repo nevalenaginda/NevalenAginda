@@ -15,7 +15,11 @@
 </a>
 
 <a href="https://linkedin.com/in/nevalen-aginda-prasetyo-57ba3a120">
-  <img style="margin-right:10px" align="left" alt="nevalen linkedin" width="24px" src="https://camo.githubusercontent.com/0d70d8c72e2f45755511d6799489dc49d0e325f0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63652f30392f33632f63653039336337323134616433353762623636356366643266363661386236622e706e67" />
+  <img style="margin-right:10px" align="left" alt="nevalen instagram" width="24px" src="https://raw.githubusercontent.com/nevalenaginda/NevalenAginda/main/instagram.png"/>
+</a>
+
+<a href="https://www.instagram.com/nevalen_aginda/">
+  <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="" />
 </a>
 
 <a href="https://github.com/nevalenaginda">
