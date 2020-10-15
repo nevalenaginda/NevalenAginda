@@ -2,13 +2,9 @@
 
 |||
 |---|---|
-|![lintang github stat](https://github-readme-stats.vercel.app/api?username=lintangwisesa&show_icons=true&hide_border=true&theme=vue)|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=LintangWisesa&layout=compact&hide_border=true&theme=vue)| 
+|![lintang github stat](https://github-readme-stats.vercel.app/api?username=nevalenaginda&show_icons=true&hide_border=true&theme=vue)|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nevalenaginda&layout=compact&hide_border=true&theme=vue)| 
 
 <br>
-
-<a href="mailto: nevalenaginda10@gmail.com">
-  <img align="left" style="margin-right:10px" alt="nevalen gmail" width="22px" src="https://camo.githubusercontent.com/b6e5ff081d7552ec05656de193794847e14d47ad/68747470733a2f2f732e79696d672e636f6d2f63762f61706976322f6d79632f6d61696c2f4d61696c5f694f535f6170705f69636f6e2e706e67" />
-</a>
 
 <a href="https://web.facebook.com/nevalen.aginda/">
   <img align="left" style="margin-right:10px" alt="nevalen facebook" width="22px" src="https://camo.githubusercontent.com/a461898d72dd9f4c8c526dfcca9dfdc8a8c69605/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f352f35312f46616365626f6f6b5f665f6c6f676f5f253238323031392532392e7376672f3130323470782d46616365626f6f6b5f665f6c6f676f5f253238323031392532392e7376672e706e67" />
@@ -26,6 +22,3 @@
   <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="https://camo.githubusercontent.com/11406e7ae7d4716fcc586cddf450451576d71bef/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f32352f32353233312e737667" />
 </a>
 
-<a href="https://www.hackster.io/lintangwisesa">
-  <img style="margin-right:10px" align="left" alt="lintang hackster" width="23px" src="https://user-images.githubusercontent.com/10383395/49821324-358fa080-fda0-11e8-8b00-def2a67fc598.png" />
-</a>
