@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/trex.gif" width="90%"/>
+<img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/trex.gif" width="100%"/>
 
 
 |||
