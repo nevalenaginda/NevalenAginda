@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/trex.gif" width="100%"/>
-
+<!--- <center><img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/trex.gif" width="100%"/><center>--->
+<center><img src="https://media1.tenor.com/images/2d76a5d5644cf2145640bc539e202352/tenor.gif?itemid=15278504" width="100%" height=200/><center>
 
 |||
 |---|---|
