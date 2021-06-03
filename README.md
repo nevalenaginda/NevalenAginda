@@ -1,4 +1,5 @@
-<img src="https://github.com/nevalenaginda/NevalenAginda/blob/main/hello.gif" width="25%"/>
+<img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/trex.gif" width="90%"/>
+
 
 |||
 |---|---|
