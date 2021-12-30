@@ -23,14 +23,7 @@
   <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="https://raw.githubusercontent.com/nevalenaginda/NevalenAginda/main/instagram.png"/>
 </a>
 
-<a href="https://github.com/nevalenaginda">
-  <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="https://camo.githubusercontent.com/11406e7ae7d4716fcc586cddf450451576d71bef/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f32352f32353233312e737667" />
-</a>
-
-<a href="https://nevalenaginda.github.io/">
+<a href="https://nevalenagindaa.github.io/">
   <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="https://raw.githubusercontent.com/nevalenaginda/NevalenAginda/main/github.png" />
 </a>
 
-<a href="https://lenmylifes.blogspot.com/">
-  <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="https://raw.githubusercontent.com/nevalenaginda/NevalenAginda/main/blogger.png" />
-</a>
